@@ -49,11 +49,11 @@ import pandas as pd
 from azure.ai.formrecognizer import DocumentAnalysisClient
 from azure.core.credentials import AzureKeyCredential
 
-ENDPOINT = "https://di-ne-docintel001.cognitiveservices.azure.com/"
-KEY = "6e0fb08c07ae4557b40d9aab940edd73"
+ENDPOINT = ""
+KEY = ""
 MODEL_ID = "prebuilt-document"
-input_path = r"C:\Users\B28166\Desktop\Relatorios_avaliacao"
-output_excel_path = r"C:\Users\B28166\Desktop\EXCEL RELAORIOS DE AVALIAÇÃO\CAMPOS NECESSARIOS4.xlsx"
+input_path = r""
+output_excel_path = r""
 
 
 # #ITERAR FICHEIRO POR PASTA
